@@ -29826,6 +29826,426 @@
   content: "\F2004";
 }
 
+.mdi-adobe::before {
+  content: "\F2005";
+}
+
+.mdi-adobe-acrobat::before {
+  content: "\F2006";
+}
+
+.mdi-amazon::before {
+  content: "\F2007";
+}
+
+.mdi-amazon-alexa::before {
+  content: "\F2008";
+}
+
+.mdi-android-auto::before {
+  content: "\F2009";
+}
+
+.mdi-android-debug-bridge::before {
+  content: "\F200A";
+}
+
+.mdi-android-messages::before {
+  content: "\F200B";
+}
+
+.mdi-apple-airplay::before {
+  content: "\F200C";
+}
+
+.mdi-bandcamp::before {
+  content: "\F200D";
+}
+
+.mdi-battlenet::before {
+  content: "\F200E";
+}
+
+.mdi-blogger::before {
+  content: "\F200F";
+}
+
+.mdi-bolnisi-cross::before {
+  content: "\F2010";
+}
+
+.mdi-book-variant-multiple::before {
+  content: "\F2011";
+}
+
+.mdi-boom-gate-down::before {
+  content: "\F2012";
+}
+
+.mdi-boom-gate-down-outline::before {
+  content: "\F2013";
+}
+
+.mdi-buddhism::before {
+  content: "\F2014";
+}
+
+.mdi-buffer::before {
+  content: "\F2015";
+}
+
+.mdi-cash-usd::before {
+  content: "\F2016";
+}
+
+.mdi-cash-usd-outline::before {
+  content: "\F2017";
+}
+
+.mdi-cellphone-android::before {
+  content: "\F2018";
+}
+
+.mdi-cellphone-erase::before {
+  content: "\F2019";
+}
+
+.mdi-cellphone-iphone::before {
+  content: "\F201A";
+}
+
+.mdi-celtic-cross::before {
+  content: "\F201B";
+}
+
+.mdi-check-box-multiple-outline::before {
+  content: "\F201C";
+}
+
+.mdi-check-box-outline::before {
+  content: "\F201D";
+}
+
+.mdi-christianity::before {
+  content: "\F201E";
+}
+
+.mdi-christianity-outline::before {
+  content: "\F201F";
+}
+
+.mdi-concourse-ci::before {
+  content: "\F2020";
+}
+
+.mdi-currency-usd-circle::before {
+  content: "\F2021";
+}
+
+.mdi-currency-usd-circle-outline::before {
+  content: "\F2022";
+}
+
+.mdi-desktop-mac::before {
+  content: "\F2023";
+}
+
+.mdi-desktop-mac-dashboard::before {
+  content: "\F2024";
+}
+
+.mdi-discord::before {
+  content: "\F2025";
+}
+
+.mdi-do-not-disturb::before {
+  content: "\F2026";
+}
+
+.mdi-do-not-disturb-off::before {
+  content: "\F2027";
+}
+
+.mdi-douban::before {
+  content: "\F2028";
+}
+
+.mdi-email-receive::before {
+  content: "\F2029";
+}
+
+.mdi-email-receive-outline::before {
+  content: "\F202A";
+}
+
+.mdi-email-send::before {
+  content: "\F202B";
+}
+
+.mdi-email-send-outline::before {
+  content: "\F202C";
+}
+
+.mdi-face::before {
+  content: "\F202D";
+}
+
+.mdi-face-outline::before {
+  content: "\F202E";
+}
+
+.mdi-face-profile::before {
+  content: "\F202F";
+}
+
+.mdi-face-profile-woman::before {
+  content: "\F2030";
+}
+
+.mdi-face-shimmer::before {
+  content: "\F2031";
+}
+
+.mdi-face-shimmer-outline::before {
+  content: "\F2032";
+}
+
+.mdi-file-pdf::before {
+  content: "\F2033";
+}
+
+.mdi-file-pdf-box-outline::before {
+  content: "\F2034";
+}
+
+.mdi-file-pdf-outline::before {
+  content: "\F2035";
+}
+
+.mdi-flash-circle::before {
+  content: "\F2036";
+}
+
+.mdi-floor-lamp-variant::before {
+  content: "\F2037";
+}
+
+.mdi-format-textdirection-l-to-r::before {
+  content: "\F2038";
+}
+
+.mdi-format-textdirection-r-to-l::before {
+  content: "\F2039";
+}
+
+.mdi-gif::before {
+  content: "\F203A";
+}
+
+.mdi-google-controller::before {
+  content: "\F203B";
+}
+
+.mdi-google-controller-off::before {
+  content: "\F203C";
+}
+
+.mdi-google-home::before {
+  content: "\F203D";
+}
+
+.mdi-google-photos::before {
+  content: "\F203E";
+}
+
+.mdi-gradient::before {
+  content: "\F203F";
+}
+
+.mdi-hand::before {
+  content: "\F2040";
+}
+
+.mdi-hand-left::before {
+  content: "\F2041";
+}
+
+.mdi-hand-right::before {
+  content: "\F2042";
+}
+
+.mdi-hinduism::before {
+  content: "\F2043";
+}
+
+.mdi-home-currency-usd::before {
+  content: "\F2044";
+}
+
+.mdi-iframe::before {
+  content: "\F2045";
+}
+
+.mdi-iframe-array::before {
+  content: "\F2046";
+}
+
+.mdi-iframe-array-outline::before {
+  content: "\F2047";
+}
+
+.mdi-iframe-braces::before {
+  content: "\F2048";
+}
+
+.mdi-iframe-braces-outline::before {
+  content: "\F2049";
+}
+
+.mdi-iframe-outline::before {
+  content: "\F204A";
+}
+
+.mdi-iframe-parentheses::before {
+  content: "\F204B";
+}
+
+.mdi-iframe-parentheses-outline::before {
+  content: "\F204C";
+}
+
+.mdi-iframe-variable::before {
+  content: "\F204D";
+}
+
+.mdi-iframe-variable-outline::before {
+  content: "\F204E";
+}
+
+.mdi-islam::before {
+  content: "\F204F";
+}
+
+.mdi-judaism::before {
+  content: "\F2050";
+}
+
+.mdi-laptop-chromebook::before {
+  content: "\F2051";
+}
+
+.mdi-laptop-mac::before {
+  content: "\F2052";
+}
+
+.mdi-laptop-windows::before {
+  content: "\F2053";
+}
+
+.mdi-microsoft-edge-legacy::before {
+  content: "\F2054";
+}
+
+.mdi-microsoft-yammer::before {
+  content: "\F2055";
+}
+
+.mdi-monitor-clean::before {
+  content: "\F2056";
+}
+
+.mdi-pdf-box::before {
+  content: "\F2057";
+}
+
+.mdi-pharmacy::before {
+  content: "\F2058";
+}
+
+.mdi-plus-one::before {
+  content: "\F2059";
+}
+
+.mdi-poll-box::before {
+  content: "\F205A";
+}
+
+.mdi-poll-box-outline::before {
+  content: "\F205B";
+}
+
+.mdi-sparkles::before {
+  content: "\F205C";
+}
+
+.mdi-tablet-android::before {
+  content: "\F205D";
+}
+
+.mdi-tablet-ipad::before {
+  content: "\F205E";
+}
+
+.mdi-teach::before {
+  content: "\F205F";
+}
+
+.mdi-telegram::before {
+  content: "\F2060";
+}
+
+.mdi-television-clean::before {
+  content: "\F2061";
+}
+
+.mdi-text-subject::before {
+  content: "\F2062";
+}
+
+.mdi-text-to-speech::before {
+  content: "\F2063";
+}
+
+.mdi-text-to-speech-off::before {
+  content: "\F2064";
+}
+
+.mdi-timeline-help::before {
+  content: "\F2065";
+}
+
+.mdi-timeline-help-outline::before {
+  content: "\F2066";
+}
+
+.mdi-twitter-retweet::before {
+  content: "\F2067";
+}
+
+.mdi-untappd::before {
+  content: "\F2068";
+}
+
+.mdi-vk::before {
+  content: "\F2069";
+}
+
+.mdi-voice-off::before {
+  content: "\F206A";
+}
+
+.mdi-xamarin-outline::before {
+  content: "\F206B";
+}
+
+.mdi-xing::before {
+  content: "\F206C";
+}
+
+.mdi-y-combinator::before {
+  content: "\F206D";
+}
+
 .mdi-blank::before {
   content: "\F68C";
   visibility: hidden;
